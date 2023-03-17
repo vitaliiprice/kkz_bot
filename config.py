@@ -3,7 +3,7 @@ import emoji
 # Config
 
 # Token
-token = "5744786319:AAExxszjZLMA_-l1wVQiyEeLQL9papFxHyM"
+token = "token"
 
 # UA emoji coded
 ua = "\U0001f1fa\U0001f1e6"
