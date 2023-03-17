@@ -1,3 +1,3 @@
-from handlers import commands 
-from handlers import slogans 
-from handlers import schedule
+from . import commands 
+from . import slogans 
+from . import schedule
