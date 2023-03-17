@@ -16,5 +16,6 @@ def help(message):
 
 # /developer command
 @bot.message_handler(commands=["developer"])
-bot.reply_to(
+def developer(message):
+    bot.reply_to(
         message, f"Я поновелоний раб.\n мій власник @Gorsun4ik")
